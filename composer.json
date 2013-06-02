@@ -1,0 +1,11 @@
+{
+    "require": {
+        "phpunit/phpunit": "3.7.*",
+        "phpunit/dbunit": ">=1.2",
+        "phpunit/phpunit-selenium": ">=1.2",
+        "phpunit/phpunit-story": "*"
+    },
+    "config": {
+        "bin-dir": "D:/Ampps/www/phpunit/bin"
+    }
+}
