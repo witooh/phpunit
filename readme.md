@@ -3,6 +3,8 @@
 
 ##Install##
 
+###Config###
+
 Open ```composer.json```, Edit bin-dir to your path
 
 ```json
@@ -12,3 +14,7 @@ Open ```composer.json```, Edit bin-dir to your path
 ```
 
 Copy bin path into ```PATH``` in Window Environment
+
+###Install###
+
+Run ```composer install``` in command line
