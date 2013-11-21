@@ -6,6 +6,6 @@
         "phpunit/phpunit-story": "*"
     },
     "config": {
-        "bin-dir": "C:/xampp/htdocs/phpunit/bin"
+        "bin-dir": "/Applications/MAMP/htdocs/phpunit/bin"
     }
 }
